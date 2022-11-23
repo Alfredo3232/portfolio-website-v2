@@ -7,5 +7,13 @@ module.exports = {
   ],
   parserOptions: {
     ecmaVersion: 'latest'
+  },
+  rules: {
+    'no-var': 'warn',
+    'no-unused-vars': 'warn',
+    'no-console': 'warn',
+    'no-duplicate-imports': 'warn',
+    'no-dupe-keys': 'error',
+    'no-debugger': 'error'
   }
 }
