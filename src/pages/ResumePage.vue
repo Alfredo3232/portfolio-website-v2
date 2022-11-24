@@ -3,7 +3,7 @@
     <div class="cv-page-inner">
       <div class="cv-section cv-header p-contact h-card">
         <div class="cv-header-avatar">
-          <img src="/images/self.jpg">
+          <img src="../images/self.jpg">
         </div>
         <div class="cv-header-text">
           <h1 class="cv-header-name p-name">
