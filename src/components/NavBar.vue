@@ -1,0 +1,123 @@
+<template>
+  <aside class="site-sidebar">
+    <div class="site-sidebar-inner h-card">
+      <a
+        href="/"
+        rel="me"
+        class="person u-url"
+      >
+        <div class="person-avatar u-photo">
+          <img
+            src="../images/self.jpg"
+            alt=""
+            class="avatar"
+          >
+        </div>
+        <div class="person-content">
+          <h1 class="person-title p-name">Alfredo Rojas</h1>
+          <h2 class="person-subtitle p-job-title p-note">Full-stack Software Engineer</h2>
+        </div>
+      </a>
+      <nav class="block main-navigation">
+        <div class="navigation-extend-bar">
+          <div class="social-icons">
+            <a
+              rel="me"
+              class="button button-icon u-email"
+              title="mail: Alfredo2001@me.com"
+            >
+              <i class="fa fa-envelope" />
+            </a>
+            <a
+              rel="me"
+              href="https://www.linkedin.com/in/AlfredoRojas1/"
+              class="button button-icon"
+              title="linkedin: "
+            >
+              <i class="fa fa-linkedin-square" />
+            </a>
+            <a
+              rel="me"
+              href="https://github.com/arojas32"
+              class="button button-icon"
+              title="github: arojas32"
+            >
+              <i class="fa fa-github-square" />
+            </a>
+          </div>
+          <a
+            href="#"
+            class="navigation-extend-button js-extend-main-navigation"
+          >
+            <i class="fa fa-bars" />
+          </a>
+        </div>
+        <div class="navigation-extendable">
+          <ul>
+            <li class="">
+              <a href="/Blog/">Blog</a>
+            </li>
+            <li class="">
+              <a href="/Toy Problems/archives.html">Toy Problems</a>
+            </li>
+          </ul>
+          <ul>
+            <li class="">
+              <a href="/skills/">Skills</a>
+            </li>
+            <li class="">
+              <a href="/portfolio/">Portfolio</a>
+            </li>
+            <li class="">
+              <a href="/contact/">Contact me</a>
+            </li>
+          </ul>
+          <ul>
+            <!-- <li class=""><a href="/about-me/">About me</a></li> -->
+            <li class="">
+              <a href="/cv/">CV</a>
+            </li>
+            <li class="">
+              <a href="/Games/">Games</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <div class="block block-social">
+        <div class="block-title">
+          Get in touch
+        </div>
+        <div class="block-content">
+          <div class="social-icons">
+            <a
+              rel="me"
+              class="button button-icon u-email"
+              title="mail: Alfredo2001@me.com"
+            >
+              <i class="fa fa-envelope" />
+            </a>
+            <a
+              rel="me"
+              href="https://www.linkedin.com/in/AlfredoRojas1/"
+              class="button button-icon"
+              title="linkedin: AlfredoRojas1"
+            >
+              <i class="fa fa-linkedin-square" />
+            </a>
+            <a
+              rel="me"
+              href="https://github.com/arojas32"
+              class="button button-icon"
+              title="github: AlfredoRojas"
+            >
+              <i class="fa fa-github-square" />
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside>
+</template>
+
+<script>
+</script>
