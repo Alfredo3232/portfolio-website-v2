@@ -7,11 +7,13 @@ import PortfolioPage from '../pages/PortfolioPage.vue';
 import ResumePage from '../pages/ResumePage.vue';
 import SkillsPage from '../pages/SkillsPage.vue';
 import ToyProblemsPage from '../pages/ToyProblemsPage.vue';
+import HomePage from '../pages/HomePage.vue';
 
 
 const router = createRouter({
   history: createWebHistory(),
   routes: [
+    { path: '/', component: HomePage },
     { path: '/portfolio', component: PortfolioPage },
     { path: '/skills', component: SkillsPage },
     { path: '/contact', component: ContactPage },

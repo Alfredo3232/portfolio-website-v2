@@ -1,9 +1,8 @@
 <template>
   <aside class="site-sidebar">
     <div class="site-sidebar-inner h-card">
-      <a
-        href="/"
-        rel="me"
+      <router-link
+        to="/"
         class="person u-url"
       >
         <div class="person-avatar u-photo">
@@ -14,10 +13,15 @@
           >
         </div>
         <div class="person-content">
-          <h1 class="person-title p-name">Alfredo Rojas</h1>
-          <h2 class="person-subtitle p-job-title p-note">Full-stack Software Engineer</h2>
+          <h1 class="person-title p-name">
+            Alfredo Rojas
+          </h1>
+          <h2 class="person-subtitle p-job-title p-note">
+            Full-stack Software Engineer
+          </h2>
         </div>
-      </a>
+      </router-link>
+
       <nav class="block main-navigation">
         <div class="navigation-extend-bar">
           <div class="social-icons">
@@ -55,29 +59,43 @@
         <div class="navigation-extendable">
           <ul>
             <li class="">
-              <a href="/Blog/">Blog</a>
+              <router-link to="/blog">
+                Blog
+              </router-link>
             </li>
             <li class="">
-              <a href="/Toy Problems/archives.html">Toy Problems</a>
-            </li>
-          </ul>
-          <ul>
-            <li class="">
-              <a href="/skills/">Skills</a>
-            </li>
-            <li class="">
-              <a href="/portfolio/">Portfolio</a>
-            </li>
-            <li class="">
-              <a href="/contact/">Contact me</a>
+              <router-link to="/toyProblems">
+                Toy Problems
+              </router-link>
             </li>
           </ul>
           <ul>
             <li class="">
-              <a href="/cv/">CV</a>
+              <router-link to="/skills">
+                Skills
+              </router-link>
             </li>
             <li class="">
-              <a href="/Games/">Games</a>
+              <router-link to="/portfolio">
+                Portfolio
+              </router-link>
+            </li>
+            <li class="">
+              <router-link to="/contact">
+                Contact me
+              </router-link>
+            </li>
+          </ul>
+          <ul>
+            <li class="">
+              <router-link to="/resume">
+                Resume
+              </router-link>
+            </li>
+            <li class="">
+              <router-link to="/games">
+                Games
+              </router-link>
             </li>
           </ul>
         </div>
