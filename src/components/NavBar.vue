@@ -12,6 +12,7 @@
             class="avatar"
           >
         </div>
+
         <div class="person-content">
           <h1 class="person-title p-name">
             Alfredo Rojas
@@ -56,54 +57,78 @@
             <i class="fa fa-bars" />
           </a>
         </div>
+
         <div class="navigation-extendable">
           <ul>
             <li class="">
-              <router-link to="/blog">
+              <router-link
+                to="/blog"
+                active-class="current"
+              >
                 Blog
               </router-link>
             </li>
             <li class="">
-              <router-link to="/toyProblems">
+              <router-link
+                to="/toyProblems"
+                active-class="current"
+              >
                 Toy Problems
               </router-link>
             </li>
           </ul>
           <ul>
             <li class="">
-              <router-link to="/skills">
+              <router-link
+                to="/skills"
+                active-class="current"
+              >
                 Skills
               </router-link>
             </li>
             <li class="">
-              <router-link to="/portfolio">
+              <router-link
+                to="/portfolio"
+                active-class="current"
+              >
                 Portfolio
               </router-link>
             </li>
             <li class="">
-              <router-link to="/contact">
+              <router-link
+                to="/contact"
+                active-class="current"
+              >
                 Contact me
               </router-link>
             </li>
           </ul>
           <ul>
             <li class="">
-              <router-link to="/resume">
+              <router-link
+                to="/resume"
+                active-class="current"
+              >
                 Resume
               </router-link>
             </li>
             <li class="">
-              <router-link to="/games">
+              <router-link
+                to="/games"
+                active-class="current"
+              >
                 Games
               </router-link>
             </li>
           </ul>
         </div>
       </nav>
+
       <div class="block block-social">
         <div class="block-title">
           Get in touch
         </div>
+
         <div class="block-content">
           <div class="social-icons">
             <a
@@ -137,4 +162,5 @@
 </template>
 
 <script>
+export default {};
 </script>

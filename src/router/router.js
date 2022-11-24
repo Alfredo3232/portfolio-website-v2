@@ -21,7 +21,8 @@ const router = createRouter({
     { path: '/toyProblems', component: ToyProblemsPage },
     { path: '/blog', component: BlogPage },
     { path: '/games', component: GamesPage }
-  ]
+  ],
+  linkActiveClass: 'current'
 });
 
 export default router;
