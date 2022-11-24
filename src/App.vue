@@ -8,9 +8,9 @@
 import NavBar from './components/NavBar.vue';
 
 export default {
-  components: {
-    'nav-bar': NavBar,
-  }
+    components: {
+        'nav-bar': NavBar,
+    }
 };
 </script>
 
@@ -781,6 +781,7 @@ h6 {
 .fa-facebook-square:before {
     content: "\f082"
 }
+
 /* 
 .fa-camera-retro:before {
     content: "\f083"
@@ -2756,12 +2757,11 @@ h4 {
 
 ::selection {
     text-shadow: 0 0 7px #fff, 0 0 3px rgb(255 0 0), 0 0 102px rgb(255 255 255), 0 0 9px rgb(255 0 0)
-
 }
 
 .red,
 a {
-    color:white;
+    color: white;
 }
 
 

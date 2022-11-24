@@ -55,14 +55,16 @@
                     class="project-link"
                   >
                     <div class="project-title">Studied at California State University</div>
-                    <div class="project-subtitle">Studied at Cal State LA for a almost 2 years for a Major in Computer Science</div>
+                    <div class="project-subtitle">Studied at Cal State LA for a almost 2 years for a Major in Computer
+                      Science</div>
                   </a>
                   <div class="project-description">
                     <p>
                       I didn't complete my degree largely because I thought most of my time was spent on other topics
                       that didnt intrest me.
                       When I could be spending that time on learning what I actually love doing, and that is code. I
-                      really spent time alone studying a lot, learned more from reasearching it myself than I ever did from school.
+                      really spent time alone studying a lot, learned more from reasearching it myself than I ever did
+                      from school.
                     </p>
                   </div>
 
