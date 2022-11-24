@@ -9,7 +9,7 @@
         <div class="person-avatar u-photo">
           <img
             src="../images/self.jpg"
-            alt=""
+            alt="An image of myself"
             class="avatar"
           >
         </div>
@@ -73,7 +73,6 @@
             </li>
           </ul>
           <ul>
-            <!-- <li class=""><a href="/about-me/">About me</a></li> -->
             <li class="">
               <a href="/cv/">CV</a>
             </li>
