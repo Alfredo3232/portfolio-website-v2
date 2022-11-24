@@ -11,15 +11,19 @@
             both <strong>front-end and back-end</strong> of web development.
           </h2>
           <div class="home-buttons">
-            <a
-              href="/skills/"
+            <router-link
+              to="/skills"
               class="button button-outline button-white"
-            >Skills</a>
+            >
+              Skills
+            </router-link>
             <br>
-            <a
-              href="/portfolio/"
+            <router-link
+              to="/portfolio"
               class="button button-outline button-white"
-            >Portfolio</a>
+            >
+              Portfolio
+            </router-link>
             <br>
             <a
               href="https://github.com/arojas32"
