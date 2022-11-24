@@ -1,0 +1,3 @@
+<template>
+  ResumePage
+</template>
