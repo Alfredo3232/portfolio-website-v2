@@ -14,6 +14,7 @@ module.exports = {
     'no-console': 'warn',
     'no-duplicate-imports': 'warn',
     'no-dupe-keys': 'error',
-    'no-debugger': 'error'
+    'no-debugger': 'error',
+    "vue/component-definition-name-casing": ["error", "kebab-case"]
   }
 }
