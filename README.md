@@ -1,4 +1,4 @@
-# Portfolio_Website_V2
+# portfolio-website-v2
 
 My portfolio website, but cleaner and more maintainable with create-vue app.
 
