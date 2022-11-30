@@ -1,6 +1,8 @@
 <template>
   <router-view />
 
+  <nav-bar />
+
   <div
     id="__nuxt"
     data-server-rendered="true"

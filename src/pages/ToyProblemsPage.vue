@@ -1,6 +1,8 @@
 <template>
   <router-view />
 
+  <nav-bar />
+
   <div class="site-main">
     <div class="main-section portfolio-section">
       <div

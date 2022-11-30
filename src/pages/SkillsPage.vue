@@ -1,4 +1,6 @@
 <template>
+  <nav-bar />
+
   <div class="site-main">
     <div class="site-main-inner">
       <div class="main-section offer-section">
