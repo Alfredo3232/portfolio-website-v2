@@ -8,7 +8,7 @@
         <article>
           <figure class="titleimg">
             <img
-              src="/pix/dream_thinkpad_small.gif"
+              src=""
               title="Image Description"
             >
             <figcaption>Image Header</figcaption>
