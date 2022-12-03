@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
 
 import blogRoutes from './blogRoutes.js';
-import toyProblemsRoutes from './toyProblemsRoutes.js'
+import toyProblemsRoutes from './toyProblemsRoutes.js';
 
 import ContactPage from '../pages/ContactPage.vue';
 import GamesPage from '../pages/GamesPage.vue';
