@@ -1,5 +1,5 @@
-import ToyProblemsPage from '../pages/ToyProblemsPage.vue';
+import ToyProblemsPage from "../pages/ToyProblemsPage.vue";
 
 export default [
-    { path: '/toyProblems', component: ToyProblemsPage }
+    { path: "/toyProblems", component: ToyProblemsPage }
 ];
