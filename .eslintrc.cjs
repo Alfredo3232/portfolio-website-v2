@@ -15,8 +15,20 @@ module.exports = {
     "no-duplicate-imports": "error",
     "no-dupe-keys": "error",
     "no-debugger": "error",
-    "semi": ["error", "always"],
-    "quotes": ["error", "double", { "avoidEscape": true, "allowTemplateLiterals": true }],
-    "vue/component-definition-name-casing": ["error", "kebab-case"]
+    "semi": [
+      "error",
+      "always"
+    ],
+    "quotes": [
+      "error",
+      "double",
+      {
+        "avoidEscape": true,
+        "allowTemplateLiterals": true
+      }
+    ],
+    "vue/component-definition-name-casing": [
+      "error", "kebab-case"
+    ]
   }
 };
