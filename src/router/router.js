@@ -10,7 +10,7 @@ import ResumePage from "../pages/ResumePage.vue";
 import SkillsPage from "../pages/SkillsPage.vue";
 import HomePage from "../pages/HomePage.vue";
 
-const baseRoutes = [
+let baseRoutes = [
   { path: "/", component: HomePage },
   { path: "/portfolio", component: PortfolioPage },
   { path: "/skills", component: SkillsPage },
@@ -19,10 +19,10 @@ const baseRoutes = [
   { path: "/games", component: GamesPage },
 ];
 
-const routes1 = baseRoutes.concat(blogRoutes);
-const routes2 = routes1.concat(toyProblemsRoutes);
+let routes1 = baseRoutes.concat(blogRoutes);
+let routes2 = routes1.concat(toyProblemsRoutes);
 
-const router = createRouter({
+let router = createRouter({
   history: createWebHistory(),
   routes: routes2,
   linkActiveClass: "current"

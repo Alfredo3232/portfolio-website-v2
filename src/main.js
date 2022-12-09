@@ -5,7 +5,7 @@ import router from "./router/router.js";
 
 import NavBar from "./components/NavBar.vue";
 
-const app = createApp(App);
+let app = createApp(App);
 
 app.use(router);
 
