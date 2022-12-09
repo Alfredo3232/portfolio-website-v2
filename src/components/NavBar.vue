@@ -29,7 +29,7 @@
             <a
               rel="me"
               class="button button-icon u-email"
-              title="mail: Alfredo2001@me.com"
+              title="mail: arojas32@pm.me"
             >
               <i class="fa fa-envelope" />
             </a>
@@ -134,7 +134,7 @@
             <a
               rel="me"
               class="button button-icon u-email"
-              title="mail: Alfredo2001@me.com"
+              title="mail: arojas32@pm.me"
             >
               <i class="fa fa-envelope" />
             </a>

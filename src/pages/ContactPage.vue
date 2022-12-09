@@ -15,7 +15,7 @@
             <dt>E-mail:</dt>
             <dd>
               <i class="icon fa fa-envelope red" />
-              <span class="__cf_email__ red">Alfredo2001@me.com</span>
+              <span class="__cf_email__ red">arojas32@pm.me</span>
             </dd>
 
             <dt>&nbsp;</dt>
