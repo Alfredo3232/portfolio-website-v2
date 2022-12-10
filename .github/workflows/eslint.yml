@@ -10,6 +10,9 @@
 name: ESLint
 
 on:
+  workflow_run:
+    workflows: ["CodeQL"]
+    types: [completed]
   push:
     branches: [ "master" ]
   pull_request:
