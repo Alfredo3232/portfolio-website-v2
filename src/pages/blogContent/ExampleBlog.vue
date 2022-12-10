@@ -1,4 +1,6 @@
 <template>
+  <nav-bar />
+
   <main>
     <div class="site-main">
       <div class="main-section portfolio-section">
