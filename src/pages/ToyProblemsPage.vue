@@ -66,12 +66,12 @@
                 1
               </td>
               <td>
-                <a
-                  href="problem=1.html"
-                  title="Published on Friday, 5th October 2001, 06:00 pm"
+                <router-link
+                  to="/toyProblems/problem-1"
+                  title="Published on Friday, 5th October 2022, 06:00 pm"
                 >
                   AVERAGE OF AN ARRAY
-                </a>
+                </router-link>
               </td>
               <td>
                 <div class="center">
