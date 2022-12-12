@@ -3,6 +3,9 @@
 
 name: Deploy to Firebase Hosting on merge
 'on':
+  workflow_run:
+    workflows: ["ESLint"]
+    types: [completed]
   push:
     branches:
       - master
