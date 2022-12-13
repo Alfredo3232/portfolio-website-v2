@@ -2,10 +2,6 @@
   <router-view />
 </template>
 
-<script>
-export default {};
-</script>
-
 <style>
 @font-face {
     font-family: Roboto;

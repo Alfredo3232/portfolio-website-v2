@@ -28,7 +28,8 @@ module.exports = {
       }
     ],
     "vue/component-definition-name-casing": [
-      "error", "kebab-case"
+      "error",
+      "kebab-case"
     ]
   }
 };

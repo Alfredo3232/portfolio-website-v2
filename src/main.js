@@ -1,8 +1,10 @@
 import { createApp } from "vue";
 
+// use imports
 import App from "./App.vue";
 import router from "./router/router.js";
 
+// component imports
 import NavBar from "./components/NavBar.vue";
 
 let app = createApp(App);
