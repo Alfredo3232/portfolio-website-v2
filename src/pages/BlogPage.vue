@@ -19,156 +19,156 @@
               <hr size="30">
               <button class="tag tag--active">
                 All
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Beginner
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Web Development
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Computer Science
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Programming
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 HTML
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Python
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 JavaScript
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 TypeScript
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 CSS
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 GitHub
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Git
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 TDD
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Algorithms
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Software Development
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Open Source
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
 
 
               <hr size="30">
               <button class="tag">
                 Front End
-                <span class="number">?</span>
+                <span class="number">1</span>
               </button>
               <button class="tag">
                 JQuery
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Transpilation
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 React
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Vue
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Angular
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Clean Code
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 SCSS
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Tech
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 React Native
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Linux
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Node.js
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
 
               <hr size="30">
               <button class="tag">
                 Backend
-                <span class="number">?</span>
+                <span class="number">1</span>
               </button>
               <button class="tag">
                 Productivity
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 MySQL
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 MongoDB
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Fullstack
-                <span class="number">?</span>
+                <span class="number">1</span>
               </button>
               <button class="tag">
                 Project Management
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Cloud
-                <span class="number">?</span>
+                <span class="number">1</span>
               </button>
               <button class="tag">
                 APIs
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 AWS
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
 
 
@@ -176,31 +176,31 @@
               <hr size="30">
               <button class="tag">
                 Software Engineering
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Freelancing
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Docker
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 DevOps
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Career
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 SEO
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
               <button class="tag">
                 Software Architecture
-                <span class="number">?</span>
+                <span class="number">0</span>
               </button>
             </div>
 
@@ -313,14 +313,6 @@
             </div>
           </div>
         </main>
-
-        <footer class="text-center">
-          <p>
-            Made by <a href="https://portfolio-website-arojas32.herokuapp.com/">Alfredo Rojas</a>
-          </p>
-
-          <p>Code on <a href="https://github.com/arojas32/Portfolio-Website">GitHub</a>.</p>
-        </footer>
       </div>
     </div>
   </div>
