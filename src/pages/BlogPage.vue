@@ -13,6 +13,7 @@
         <header>
           <h1>Blogs</h1>
         </header>
+
         <main>
           <div>
             <div class="tags mb-6">
@@ -328,10 +329,6 @@ textarea {
   font-size: 100%;
   line-height: 1.15;
   margin: 0
-}
-
-.text-center {
-  text-align: center
 }
 
 .text-2xl {
