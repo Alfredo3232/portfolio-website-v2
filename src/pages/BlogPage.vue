@@ -4,7 +4,7 @@
   <nav-bar />
 
   <div
-    id="__nuxt"
+    id="blogMain"
     data-server-rendered="true"
     class="site-main"
   >
@@ -354,7 +354,7 @@ textarea {
   margin-left: 1rem
 }
 
-html {
+#blogMain {
   --black: #0e141b;
   --orange: #ff8a00;
   --green: #4fc08d;
@@ -368,16 +368,16 @@ html {
   color: #fff
 }
 
-html .wrapper {
+#blogMain .wrapper {
   padding: 2rem 2rem 0;
   background-color: #333333;
 }
 
-html footer a {
+#blogMain footer a {
   text-decoration: underline
 }
 
-html .tag {
+#blogMain .tag {
   background-color: #333333;
   background-color: var(--grey);
   opacity: .8;
@@ -394,27 +394,27 @@ html .tag {
   outline: 0
 }
 
-html .tag:hover {
+#blogMain .tag:hover {
   opacity: 1;
   transform: scale(1.05)
 }
 
-html .tag--active {
+#blogMain .tag--active {
   background: #4fc08d;
   background: var(--green)
 }
 
-html .tag--small {
+#blogMain .tag--small {
   cursor: default;
   font-size: 1rem
 }
 
-html .tag--small:hover {
+#blogMain .tag--small:hover {
   opacity: .8;
   transform: none
 }
 
-html .tag .number {
+#blogMain .tag .number {
   background-color: #0e141b;
   background-color: var(--black);
   font-size: 1rem;
@@ -422,14 +422,14 @@ html .tag .number {
   border-radius: 2px
 }
 
-html .blogs {
+#blogMain .blogs {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   grid-gap: 2rem;
   gap: 2rem
 }
 
-html .blog {
+#blogMain .blog {
   border-radius: 5px;
   display: flex;
   flex-direction: column;
@@ -438,41 +438,41 @@ html .blog {
   box-shadow: inset 0 1px 0 0 hsla(0, 0%, 100%, .1)
 }
 
-html .blog-header {
+#blogMain .blog-header {
   display: flex;
   align-items: center;
   padding: 15px
 }
 
-html .blog-content {
+#blogMain .blog-content {
   padding: 15px;
   flex: 1;
   display: flex;
   flex-direction: column
 }
 
-html .blog-description {
+#blogMain .blog-description {
   font-size: 1.2rem;
   line-height: 1.8rem;
   flex: 1
 }
 
-html .blog-tags {
+#blogMain .blog-tags {
   list-style-type: none;
   padding: 0
 }
 
-html .blog-tags li {
+#blogMain .blog-tags li {
   display: inline-block
 }
 
-html .blog-footer {
+#blogMain .blog-footer {
   display: flex;
   border-top: 1px solid #2a4555;
   border-top: 1px solid var(--grey)
 }
 
-html .blog-footer a {
+#blogMain .blog-footer a {
   width: 50%;
   padding: 15px;
   text-align: center;
