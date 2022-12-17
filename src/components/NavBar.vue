@@ -160,3 +160,39 @@
     </div>
   </aside>
 </template>
+
+<style scoped>
+.site-sidebar {
+    overflow: hidden
+}
+
+.site-sidebar .site-sidebar-inner {
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    padding: 45px 40px
+}
+
+.site-sidebar .site-sidebar-inner::-webkit-scrollbar {
+    display: none
+}
+
+@media screen and (max-width:1000px) {
+    .site-sidebar .site-sidebar-inner {
+        overflow: initial;
+        height: auto;
+        padding: 0 40px
+    }
+}
+
+.site-sidebar .block .block-title,
+h1,
+h2,
+h5 {
+    text-transform: uppercase
+}
+
+
+</style>

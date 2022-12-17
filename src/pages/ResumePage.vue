@@ -156,5 +156,7 @@
 </template>
 
 <style scoped>
-
+.red, a {
+  color: black;
+}
 </style>

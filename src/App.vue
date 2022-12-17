@@ -1525,8 +1525,7 @@ button {
     overflow: visible
 }
 
-.dl-vertical,
-.site-sidebar {
+.dl-vertical {
     overflow: hidden
 }
 
@@ -1537,7 +1536,7 @@ select {
 
 .main-navigation,
 .person .person-content .person-title,
-.site-sidebar .block .block-title,
+.block .block-title,
 h1,
 h2,
 h5 {
@@ -2143,27 +2142,6 @@ body {
 
     .parent-home .site-sidebar:before {
         display: none
-    }
-}
-
-.site-sidebar .site-sidebar-inner {
-    position: relative;
-    height: 100%;
-    overflow-y: auto;
-    -webkit-overflow-scrolling: touch;
-    -ms-overflow-style: -ms-autohiding-scrollbar;
-    padding: 45px 40px
-}
-
-.site-sidebar .site-sidebar-inner::-webkit-scrollbar {
-    display: none
-}
-
-@media screen and (max-width:1000px) {
-    .site-sidebar .site-sidebar-inner {
-        overflow: initial;
-        height: auto;
-        padding: 0 40px
     }
 }
 
