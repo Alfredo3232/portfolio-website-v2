@@ -36,14 +36,14 @@
             </p>
             <button
               id="button"
-              onclick="showhide()"
               style="background-color: #2a4555;"
+              @click="showSolution"
             >
               Solution
             </button>
             <div
               id="newpost"
-              class="hidden"
+              :class="show ? '' : 'hidden'"
             >
               <p>
                 function obtainTheMedian(grades) {<br>
@@ -65,6 +65,21 @@
     </div>
   </div>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      show: false
+    };
+  },
+  methods: {
+    showSolution() {
+      this.show = !this.show;
+    }
+  }
+};
+</script>
 
 <style scoped>
 :root {

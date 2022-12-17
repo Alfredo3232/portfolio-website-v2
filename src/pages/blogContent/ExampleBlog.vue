@@ -67,7 +67,6 @@
 
 <style scoped>
 :root {
-
   --bg: #ccc;
   --fg: #222;
   --behind: #123;
@@ -80,7 +79,6 @@
   --border: #333;
   --box: #444;
   --lime: #070;
-
 }
 
 body {
