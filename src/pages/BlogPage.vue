@@ -5,10 +5,9 @@
 
   <div
     id="blogMain"
-    data-server-rendered="true"
     class="site-main"
   >
-    <div id="__layout">
+    <div class="site-main-inner">
       <div class="wrapper">
         <header>
           <h1>Blogs</h1>
