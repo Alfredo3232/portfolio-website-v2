@@ -39,7 +39,7 @@
               style="background-color: #2a4555;"
               @click="showSolution"
             >
-              Solution
+              Show Solution
             </button>
             <div
               id="newpost"
