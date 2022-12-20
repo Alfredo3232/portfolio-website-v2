@@ -1,5 +1,5 @@
 <template>
-  <router-view />
+    <router-view />
 </template>
 
 <style>
@@ -1861,12 +1861,12 @@ h4 {
     font-weight: 400
 }
 
-::-moz-selection {
-    text-shadow: 0 0 7px #fff, 0 0 3px rgb(255 0 0), 0 0 102px rgb(255 255 255), 0 0 9px rgb(255 0 0)
-}
-
 ::selection {
-    text-shadow: 0 0 7px #fff, 0 0 3px rgb(255 0 0), 0 0 102px rgb(255 255 255), 0 0 9px rgb(255 0 0)
+    text-shadow:
+        0 0 7px #fff,
+        0 0 3px rgb(255 0 0),
+        0 0 102px rgb(255 255 255),
+        0 0 9px rgb(255 0 0);
 }
 
 .red,

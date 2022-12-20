@@ -43,57 +43,32 @@
 
 <style scoped>
 .home-section {
+  /* HOME SECTION WALLPAPER */
   position: fixed;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
-  z-index: 1;
   background: url(../images/home-bg3.ef171b05.jpg) center no-repeat #bababa;
   background-size: cover;
+
+  /* HOME SECTION BOX */
   color: #fff;
-  padding-left: 110px;
-  padding-top: 130px;
+  padding-left: 6vw;
+  padding-top: 6vh;
   text-shadow:
     0 0 7px #fff,
-    0 0 42px rgb(255, 0, 0),
-    0 0 102px rgb(255, 255, 255),
-    0 0 151px rgb(255, 0, 0);
+    0 0 3px rgb(255 0 0),
+    0 0 102px rgb(255 255 255),
+    0 0 9px rgb(255 0 0);
   font-size: 12px
 }
 
-@media screen and (max-width:1000px) {
-  .home-section {
-    position: relative;
-    padding: 40px 20px;
-    background: 0 0;
-    font-size: 10px
-  }
-}
-
-@media screen and (max-width:767px) {
-  .home-section {
-    font-size: 8px
-  }
-}
-
-@media screen and (max-width:567px) {
-  .home-section {
-    font-size: 7px
-  }
-}
-
 .home-section .home-section-inner {
-  max-width: 840px;
   margin-left: 25%;
-  padding-left: 50px;
+  margin-right: 3%;
+  padding: 25px;
   background: rgba(0, 0, 0, 0.5)
-}
-
-@media screen and (max-width:1000px) {
-  .home-section .home-section-inner {
-    margin: 0
-  }
 }
 
 .home-section .home-heading {
@@ -130,13 +105,6 @@
   animation-timing-function: ease-in-out
 }
 
-
-@media screen and (max-width:1000px) {
-  .home-section .home-buttons {
-    margin-top: 1em
-  }
-}
-
 .home-section .home-buttons .button {
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -148,18 +116,6 @@
   opacity: .8;
   box-shadow: 1px 1px 2px rgba(0, 0, 0, .47);
   margin-bottom: 1em
-}
-
-@media screen and (max-width:767px) {
-  .home-section .home-buttons {
-    font-size: 18px
-  }
-
-  .home-section .home-buttons .button {
-    margin: 1em 0 0;
-    float: left;
-    clear: both
-  }
 }
 
 .home-section .home-buttons .button:active,
@@ -187,5 +143,53 @@
 
 .button.button-white {
   color: #fff
+}
+
+/* HOME SECTION MOBILE  */
+
+@media screen and (max-width:1000px) {
+  .home-section {
+    padding: 40px 20px;
+    background: 0 0;
+    font-size: 10px
+  }
+}
+
+@media screen and (max-width:767px) {
+  .home-section {
+    font-size: 8px
+  }
+}
+
+@media screen and (max-width:567px) {
+  .home-section {
+    font-size: 7px
+  }
+}
+
+@media screen and (max-width:1000px) {
+  .home-section .home-section-inner {
+    margin: 0;
+    margin-top: 14vh;
+  }
+}
+
+
+@media screen and (max-width:767px) {
+  .home-section .home-buttons {
+    font-size: 18px
+  }
+
+  .home-section .home-buttons .button {
+    margin: 1em 0 0;
+    float: left;
+    clear: both
+  }
+}
+
+@media screen and (max-width:1000px) {
+  .home-section .home-buttons {
+    margin-top: 1em
+  }
 }
 </style>
