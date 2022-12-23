@@ -24,7 +24,7 @@
               <div class="timeline_element-contents">
                 <div class="project-text">
                   <a
-                    href="https://www.freecodecamp.org/AlfredoRojas"
+                    href="https://www.freecodecamp.org/Alfredo3232"
                     class="project-link"
                   >
                     <div class="project-title">Freecode Camp</div>

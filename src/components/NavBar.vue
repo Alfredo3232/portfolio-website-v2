@@ -15,7 +15,7 @@
 
         <div class="person-content">
           <h1 class="person-title p-name">
-            Alfredo Rojas
+            Alfredo
           </h1>
           <h2 class="person-subtitle p-job-title p-note">
             Full-stack Software Engineer
@@ -29,7 +29,7 @@
             <a
               rel="me"
               class="button button-icon u-email"
-              title="mail: arojas32@pm.me"
+              title="mail: Alfredo3232@pm.me"
             >
               <i class="fa fa-envelope" />
             </a>
@@ -43,9 +43,9 @@
             </a>
             <a
               rel="me"
-              href="https://github.com/arojas32"
+              href="https://github.com/Alfredo3232"
               class="button button-icon"
-              title="github: arojas32"
+              title="github: Alfredo3232"
             >
               <i class="fa fa-github-square" />
             </a>
@@ -134,7 +134,7 @@
             <a
               rel="me"
               class="button button-icon u-email"
-              title="mail: arojas32@pm.me"
+              title="mail: Alfredo3232@pm.me"
             >
               <i class="fa fa-envelope" />
             </a>
@@ -148,9 +148,9 @@
             </a>
             <a
               rel="me"
-              href="https://github.com/arojas32"
+              href="https://github.com/Alfredo3232"
               class="button button-icon"
-              title="github: AlfredoRojas"
+              title="github: Alfredo3232"
             >
               <i class="fa fa-github-square" />
             </a>

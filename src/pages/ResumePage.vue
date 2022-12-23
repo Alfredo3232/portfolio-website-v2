@@ -7,7 +7,7 @@
         </div>
         <div class="cv-header-text">
           <h1 class="cv-header-name p-name">
-            Alfredo Rojas
+            Alfredo
           </h1>
           <h2 class="cv-header-subname p-title">
             Full-Stack Web Developer
@@ -20,21 +20,21 @@
           <div class="cv-header-meta-right">
             <div class="cv-header-meta-row">
               <a
-                href="https://portfolio-website-arojas32.herokuapp.com/"
+                href="https://portfolio-website-Alfredo3232.herokuapp.com/"
                 rel="me"
                 class="u-url"
-              >https://portfolio-website-arojas32.herokuapp.com/</a>
+              >https://portfolio-website-Alfredo3232.herokuapp.com/</a>
             </div>
             <div class="cv-header-meta-row">
               <p class="red">
-                arojas32@pm.me
+                Alfredo3232@pm.me
               </p>
             </div>
             <!-- <div class="cv-header-meta-row">
               +48 792 290 484
             </div> -->
             <div class="cv-header-meta-row">
-              <a href="https://linkedin.com/in/AlfredoRojas1/">linkedin.com/in/AlfredoRojas1</a>
+              <a href="https://linkedin.com/in/AlfredoRojas1/">Alfredo</a>
             </div>
           </div>
         </div>

@@ -15,7 +15,7 @@
             <dt>E-mail:</dt>
             <dd>
               <i class="icon fa fa-envelope red" />
-              <span class="__cf_email__ red">arojas32@pm.me</span>
+              <span class="__cf_email__ red">Alfredo3232@pm.me</span>
             </dd>
 
             <dt>&nbsp;</dt>
@@ -23,12 +23,12 @@
 
             <dt>LinkedIn:</dt>
             <dd>
-              <a href="https://www.linkedin.com/in/AlfredoRojas1/"><i class="icon fa fa-linkedin" /> AlfredoRojas1</a>
+              <a href="https://www.linkedin.com/in/AlfredoRojas1/"><i class="icon fa fa-linkedin" /> Alfredo</a>
             </dd>
 
             <dt>Github:</dt>
             <dd>
-              <a href="https://github.com/arojas32"><i class="icon fa fa-github" /> AlfredoRojas</a>
+              <a href="https://github.com/Alfredo3232"><i class="icon fa fa-github" />Alfredo3232</a>
             </dd>
           </dl>
         </div>

@@ -6,7 +6,7 @@
       <div class="home-section">
         <div class="home-section-inner">
           <div class="home-heading">
-            Welcome to my page, <br>I am Alfredo Rojas
+            Welcome to my page, <br>I am Alfredo
           </div>
           <h2 class="home-subheading">
             I am a Full-Stack Web Developer<br>
@@ -28,7 +28,7 @@
             </router-link>
             <br>
             <a
-              href="https://github.com/arojas32"
+              href="https://github.com/Alfredo3232"
               target="_blank"
               class="button button-outline button-white"
             >

@@ -15,7 +15,7 @@
 
         <p>
           <strong>I have worked on
-            <a href="https://github.com/arojas32">multiple projects</a>
+            <a href="https://github.com/Alfredo3232">multiple projects</a>
             from scratch</strong>, working on both the back-end and the front-end.
         </p>
 
