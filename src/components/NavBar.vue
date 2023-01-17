@@ -35,7 +35,7 @@
             </a>
             <a
               rel="me"
-              href="https://www.linkedin.com/in/AlfredoRojas1/"
+              href="https://www.linkedin.com/in/alfredor1/"
               class="button button-icon"
               title="linkedin: "
             >
@@ -140,9 +140,9 @@
             </a>
             <a
               rel="me"
-              href="https://www.linkedin.com/in/AlfredoRojas1/"
+              href="https://www.linkedin.com/in/alfredor1/"
               class="button button-icon"
-              title="linkedin: AlfredoRojas1"
+              title="linkedin: Alfredo R"
             >
               <i class="fa fa-linkedin-square" />
             </a>

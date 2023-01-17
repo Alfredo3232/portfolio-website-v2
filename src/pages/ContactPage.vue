@@ -23,7 +23,7 @@
 
             <dt>LinkedIn:</dt>
             <dd>
-              <a href="https://www.linkedin.com/in/AlfredoRojas1/"><i class="icon fa fa-linkedin" /> Alfredo</a>
+              <a href="https://www.linkedin.com/in/alfredor1/"><i class="icon fa fa-linkedin" /> Alfredo</a>
             </dd>
 
             <dt>Github:</dt>

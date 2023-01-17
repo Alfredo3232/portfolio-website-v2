@@ -34,7 +34,7 @@
               +48 792 290 484
             </div> -->
             <div class="cv-header-meta-row">
-              <a href="https://linkedin.com/in/AlfredoRojas1/">Alfredo</a>
+              <a href="https://www.linkedin.com/in/alfredor1/">Alfredo</a>
             </div>
           </div>
         </div>
