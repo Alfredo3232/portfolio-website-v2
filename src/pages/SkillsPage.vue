@@ -24,6 +24,8 @@
           <li>co-developing the back-end and front-end,</li>
           <li>researching possible techs,</li>
           <li>launching and monitoring the project.</li>
+          <li>consistency on the codebase by configuring libraries like eslint that improves code readibility</li>
+          <li>managing the project with git and github, also making github actions that automatizes work</li>
         </ul>
 
         <hr>
@@ -34,20 +36,38 @@
         </h2>
 
         <p>
-          <strong>I specialize in applications written in VueJS.</strong>
+          <strong>I strongly specialize in applications written in VueJS.</strong>
         </p>
+        <p>
+          In back-end development, my current stack involves:
+          <br>
+          <a
+            href="https://vuejs.org/"
+            rel="nofollow"
+          >VueJS</a>
 
-        <p>My current experience and skills in front-end includes:</p>
-        <ul>
-          <li>
-            JavaScript development: refactoring,
-            improving the structure of your code, build setup;
-          </li>
-          <li>
-            experience in the JS ecosystem, using many libraries like React, Vue,
-            JQuery and Underscore.
-          </li>
-        </ul>
+          <br>
+
+          <a
+            href="https://reactjs.org/"
+            rel="nofollow"
+          >React</a>
+
+          <br>
+
+          <a
+            href="https://jquery.com/"
+            rel="nofollow"
+          >JQuery</a>
+
+          <br>
+
+          <a
+            href="https://underscorejs.org/"
+            rel="nofollow"
+          >Underscore</a>
+        </p>
+        <p>I also have experience in using derivative libraries that and-on to packages like Vue for example Vuex, Vue-router, and Redux for React</p>
 
         <div class="row features">
           <div class="col col-4 feature">
@@ -128,7 +148,7 @@
             <a
               href="https://www.mongodb.com/"
               rel="nofollow"
-            >MongoDB</a>),
+            >MongoDB</a>,
             <a
               href="https://neo4j.com/"
               rel="nofollow"
@@ -147,3 +167,9 @@
     </div>
   </div>
 </template>
+
+<style scoped>
+a {
+  color: rgb(211, 20, 20);
+}
+</style>
