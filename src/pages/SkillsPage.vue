@@ -19,15 +19,9 @@
             from scratch</strong>, working on both the back-end and the front-end.
         </p>
 
-        <p>
-          My currrent skills includes
-          <strong>JavaScript, Node.js</strong> <strong>& React</strong>.
-        </p>
-
         <p><strong>I can help you on your projects:</strong></p>
         <ul>
           <li>co-developing the back-end and front-end,</li>
-          <li>estimating tasks,</li>
           <li>researching possible techs,</li>
           <li>launching and monitoring the project.</li>
         </ul>
@@ -40,18 +34,18 @@
         </h2>
 
         <p>
-          <strong>I specialize in applications written in React.</strong>
+          <strong>I specialize in applications written in VueJS.</strong>
         </p>
 
         <p>My current experience and skills in front-end includes:</p>
         <ul>
           <li>
             JavaScript development: refactoring,
-            improving the structure, reliability, build setup;
+            improving the structure of your code, build setup;
           </li>
           <li>
-            experience in the JS ecosystem, using many libraries like React,
-            JQuery, Underscore.
+            experience in the JS ecosystem, using many libraries like React, Vue,
+            JQuery and Underscore.
           </li>
         </ul>
 
@@ -61,7 +55,7 @@
               1
             </div>
             <div class="feature-description">
-              single page applications launched in React
+              single page applications launched in VueJS
             </div>
           </div>
 
@@ -92,12 +86,26 @@
         </h2>
 
         <p>
-          <strong>In back-end development, my current stack involves
-            <a
-              href="https://nodejs.org/"
-              rel="nofollow"
-            >NodeJS</a>
-          </strong>
+          In back-end development, my current stack involves:
+          <br>
+          <a
+            href="https://nodejs.org/"
+            rel="nofollow"
+          >NodeJS</a>
+
+          <br>
+
+          <a
+            href="https://expressjs.com/"
+            rel="nofollow"
+          >Express</a>
+
+          <br>
+
+          <a
+            href="https://axios-http.com/"
+            rel="nofollow"
+          >Axios</a>
         </p>
         <p>
           The lessons I learned while doing all these project have been informational to me
@@ -109,25 +117,31 @@
         <ul>
           <li>development of the backends in Node.js,</li>
           <li>
-            cooperation with APIs, remote data synchronizations, cloud servers,
+            cooperation with APIs, cloud servers,
           </li>
           <li>
             using different types of databases like (
             <a
               href="https://www.mysql.com/"
               rel="nofollow"
-            >MySQL</a>,
+            >SQL</a>,
             <a
               href="https://www.mongodb.com/"
               rel="nofollow"
             >MongoDB</a>),
+            <a
+              href="https://neo4j.com/"
+              rel="nofollow"
+            >Neo4J</a>),
+          </li>
+          <li>
+            also using their perspective technologies to interact with NodeJS, like Mongoose, MySQL, Neo4J-Driver
           </li>
           <li>
             refactoring code and improving code readibility, by
             separating logic into separate functions/classes/modules.
           </li>
         </ul>
-
         <hr>
       </div>
     </div>
