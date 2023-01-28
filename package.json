@@ -1,6 +1,7 @@
 {
   "name": "portfolio-website-v2",
   "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

@@ -1,12 +1,18 @@
 /* eslint-env node */
 module.exports = {
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true
+  },
   root: true,
   "extends": [
     "plugin:vue/vue3-recommended",
     "eslint:recommended"
   ],
   parserOptions: {
-    ecmaVersion: "latest"
+    "ecmaVersion": "latest",
+    "sourceType": "module"
   },
   rules: {
     "no-var": "error",
