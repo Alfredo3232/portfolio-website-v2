@@ -20,7 +20,7 @@
             <p>Hook.</p>
             <p>Hook transition to topic</p>
             <h2>Title Question?</h2>
-            <p>Reasons if critizing or praising:</p>
+            <p>Reasons if criticizing or praising:</p>
             <ol>
               <li>reason1</li>
               <li>reason2</li>
@@ -28,13 +28,13 @@
               <li>reason3</li>
             </ol>
             <p>doubts of reasons?</p>
-            <p>describe your expirience with topic</p>
+            <p>describe your experience with topic</p>
             <h3>Question?</h3>
             <p>Answer</p>
             <h2>Title Reason 1</h2>
             <h3>main answer one liner</h3>
-            <p>Explaination 1</p>
-            <p>Explaination 2, culprit?</p>
+            <p>Explanation 1</p>
+            <p>Explanation 2, culprit?</p>
             <h3>Statement why?</h3>
             <h4>Reason</h4>
             <p>
@@ -45,16 +45,16 @@
             <h4>Specific topic or thing</h4>
             <p>talk about what good or bad</p>
             <h3> bigger specific topic or thing</h3>
-            <p>make the reader think with a question that stregthens your point</p>
+            <p>make the reader think with a question that strengthens your point</p>
             <p>mock the topic or make light of it</p>
-            <p>main explaination</p>
+            <p>main explanation</p>
             <p>how can you resolve it or provide another point</p>
             <h2>why the solution?</h2>
             <p>question why do people like this solution?</p>
             <p>point 1</p>
             <p>point 2</p>
-            <h3>how good is one of your point to your soltion</h3>
-            <p>your expirience with the oposite</p>
+            <h3>how good is one of your point to your solution</h3>
+            <p>your experience with the opposite</p>
             <p>point 1</p>
             <p>example to prove point</p>
             <p>why solution is better than normal</p>

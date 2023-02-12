@@ -27,12 +27,12 @@
                     href="https://www.freecodecamp.org/Alfredo3232"
                     class="project-link"
                   >
-                    <div class="project-title">Freecode Camp</div>
+                    <div class="project-title">FreeCodeCamp</div>
                     <div class="project-subtitle">I completed various curriculums at FreeCodeCamp</div>
                   </a>
                   <div class="project-description">
                     <p>
-                      DESCIPTION ON WHAT YOU DID ON FREECODECAMP AND WHAT YOUVE LEARNED.
+                      DESCRIPTION ON WHAT YOU DID ON FREECODECAMP AND WHAT YOU'VE LEARNED.
                     </p>
                   </div>
 
@@ -63,9 +63,9 @@
                   <div class="project-description">
                     <p>
                       I didn't complete my degree largely because I thought most of my time was spent on other topics
-                      that didnt intrest me.
+                      that didn't interest me.
                       When I could be spending that time on learning what I actually love doing, and that is code. I
-                      really spent time alone studying a lot, learned more from reasearching it myself than I ever did
+                      really spent time alone studying a lot, learned more from researching it myself than I ever did
                       from school.
                     </p>
                   </div>
