@@ -8,17 +8,11 @@
           Portfolio
         </h1>
 
-        <p>
-          See my works below. Unless explicitly stated otherwise,
-          <strong>all their back-end and front-end parts were completely done by
-            me.</strong>
-        </p>
-
         <div class="timeline portfolio-timeline">
           <ul>
             <li class="timeline_element project">
               <div class="timeline_element-date">
-                <time class="timeline_element-date-text">2021-2022</time>
+                <time class="timeline_element-date-text">2021-2023</time>
               </div>
 
               <div class="timeline_element-contents">
@@ -27,12 +21,14 @@
                     href="https://www.freecodecamp.org/Alfredo3232"
                     class="project-link"
                   >
-                    <div class="project-title">FreeCodeCamp</div>
+                    <div class="project-title">Self-Studying & FreeCodeCamp</div>
                     <div class="project-subtitle">I completed various curriculums at FreeCodeCamp</div>
                   </a>
                   <div class="project-description">
                     <p>
-                      DESCRIPTION ON WHAT YOU DID ON FREECODECAMP AND WHAT YOU'VE LEARNED.
+                      FreeCodeCamp was a starter in my full-stack web development that allowed me to ge started on a lot of things that I know now
+                      and the rest of the studying was looking at documentation and a lot of reading. Technologies like neo4j, vue, react, express
+                      node.js was from self studying.
                     </p>
                   </div>
 
@@ -62,11 +58,8 @@
                   </a>
                   <div class="project-description">
                     <p>
-                      I didn't complete my degree largely because I thought most of my time was spent on other topics
-                      that didn't interest me.
-                      When I could be spending that time on learning what I actually love doing, and that is code. I
-                      really spent time alone studying a lot, learned more from researching it myself than I ever did
-                      from school.
+                      I didn't complete my degree, due to some circumstances at the time, this allowed me to learn the multiple things in life
+                      as well as the different types of technologies and paths that I can take in software development.
                     </p>
                   </div>
 

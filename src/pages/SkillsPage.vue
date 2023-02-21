@@ -10,7 +10,7 @@
 
         <p>
           <strong>A <span class="red">full-stack software engineer</span> with over
-            <span class="red">2 years of experience</span>.</strong>
+            <span class="red">1.5 years of experience</span>.</strong>
         </p>
 
         <p>
@@ -24,7 +24,7 @@
           <li>co-developing the back-end and front-end,</li>
           <li>researching possible techs,</li>
           <li>launching and monitoring the project.</li>
-          <li>consistency on the codebase by configuring libraries like eslint that improves code readibility</li>
+          <li>consistency on the codebase by configuring libraries like eslint that improves code readability</li>
           <li>managing the project with git and github, also making github actions that automatizes work</li>
         </ul>
 
@@ -39,7 +39,7 @@
           <strong>I strongly specialize in applications written in VueJS.</strong>
         </p>
         <p>
-          In back-end development, my current stack involves:
+          In front-end development, my current stack involves:
           <br>
           <a
             href="https://vuejs.org/"
@@ -63,11 +63,14 @@
           <br>
 
           <a
-            href="https://underscorejs.org/"
+            href=""
             rel="nofollow"
-          >Underscore</a>
+          >Manipulating the DOM with vanilla javascript</a>
         </p>
-        <p>I also have experience in using derivative libraries that and-on to packages like Vue for example Vuex, Vue-router, and Redux for React</p>
+        <p>
+          I also have experience in using derivative libraries that and-on to packages like Vue for example Vuex and
+          Vue-router.
+        </p>
 
         <div class="row features">
           <div class="col col-4 feature">
@@ -82,7 +85,7 @@
           <div class="col col-4 feature">
             <div class="feature-icon feature-number" />
             <div class="feature-description">
-              <!-- SOMETHING HERE -->
+              This portfolio website right here!
             </div>
           </div>
 
@@ -158,7 +161,7 @@
             also using their perspective technologies to interact with NodeJS, like Mongoose, MySQL, Neo4J-Driver
           </li>
           <li>
-            refactoring code and improving code readibility, by
+            refactoring code and improving code readability, by
             separating logic into separate functions/classes/modules.
           </li>
         </ul>

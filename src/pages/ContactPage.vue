@@ -8,7 +8,7 @@
           Contact me
         </h1>
 
-        <p>I am open to hire and any ideas of cooperation.</p>
+        <p>I am open to hire, want another person to help you out on your project? Contact me. Info below</p>
 
         <div class="vcard">
           <dl class="dl dl-vertical">
