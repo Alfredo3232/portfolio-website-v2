@@ -14,12 +14,12 @@ import HomePage from "../pages/HomePage.vue";
 
 // routes arrays
 let baseRoutes = [
-  { path: "/", component: HomePage },
-  { path: "/portfolio", component: PortfolioPage },
-  { path: "/skills", component: SkillsPage },
-  { path: "/contact", component: ContactPage },
-  { path: "/resume", component: ResumePage },
-  { path: "/games", component: GamesPage },
+  { component: HomePage, path: "/", },
+  { component: PortfolioPage, path: "/portfolio" },
+  { component: SkillsPage, path: "/skills" },
+  { component: ContactPage, path: "/contact" },
+  { component: ResumePage, path: "/resume" },
+  { component: GamesPage, path: "/games" },
 ];
 
 let routes1 = baseRoutes.concat(blogRoutes);
@@ -27,9 +27,9 @@ let routes2 = routes1.concat(toyProblemsRoutes);
 
 // router object
 let router = createRouter({
-  history: createWebHistory(),
-  routes: routes2,
-  linkActiveClass: "current"
+  history         : createWebHistory(),
+  linkActiveClass : "current",
+  routes          : routes2,
 });
 
 export default router;
