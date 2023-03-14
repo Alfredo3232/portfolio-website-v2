@@ -13,28 +13,15 @@
 
             <p>These are Toy Problems test my skills</p>
             <div class="pagination noprint">
-              <a
-                href="archives.html"
-                class="current"
-              >1</a>
-              <a
-                href="archives;page=2.html"
-                title="Go to page 2"
-              >2</a>
+              <a href="archives.html" class="current">1</a>
+              <a href="archives;page=2.html" title="Go to page 2">2</a>
               <span id="go_to">&nbsp;&nbsp;&nbsp;Go to Problem:
-                <input
-                  type="text"
-                  maxlength="3"
-                  class="jump_to"
-                >
+                <input type="text" maxlength="3" class="jump_to">
               </span>
             </div>
 
 
-            <table
-              id="problems_table"
-              class="grid"
-            >
+            <table id="problems_table" class="grid">
               <tr>
                 <th class="id_column">
                   <br><strong><span class="sortby">ID</span></strong><br><br>
@@ -51,10 +38,7 @@
                   1
                 </td>
                 <td>
-                  <router-link
-                    to="/toyProblems/problem-1"
-                    title="Published on Friday, 5th October 2022, 06:00 pm"
-                  >
+                  <router-link to="/toyProblems/problem-1" title="Published on Friday, 5th October 2022, 06:00 pm">
                     AVERAGE OF AN ARRAY
                   </router-link>
                 </td>
@@ -69,10 +53,7 @@
                   2
                 </td>
                 <td>
-                  <a
-                    href="problem=2.html"
-                    title="Published on Friday, 19th October 2001, 06:00 pm"
-                  >
+                  <a href="problem=2.html" title="Published on Friday, 19th October 2001, 06:00 pm">
                     ToyProblem2
                   </a>
                 </td>
@@ -87,10 +68,7 @@
                   3
                 </td>
                 <td>
-                  <a
-                    href="problem=3.html"
-                    title="Published on Friday, 2nd November 2001, 06:00 pm"
-                  >
+                  <a href="problem=3.html" title="Published on Friday, 2nd November 2001, 06:00 pm">
                     ToyProblem3
                   </a>
                 </td>
@@ -105,10 +83,7 @@
                   4
                 </td>
                 <td>
-                  <a
-                    href="problem=4.html"
-                    title="Published on Friday, 16th November 2001, 06:00 pm"
-                  >
+                  <a href="problem=4.html" title="Published on Friday, 16th November 2001, 06:00 pm">
                     ToyProblem4
                   </a>
                 </td>
@@ -123,10 +98,7 @@
                   5
                 </td>
                 <td>
-                  <a
-                    href="problem=5.html"
-                    title="Published on Friday, 30th November 2001, 06:00 pm"
-                  >
+                  <a href="problem=5.html" title="Published on Friday, 30th November 2001, 06:00 pm">
                     ToyProblem5
                   </a>
                 </td>
@@ -139,20 +111,10 @@
             </table>
             <br>
             <div class="pagination noprint">
-              <a
-                href="archives.html"
-                class="current"
-              >1</a>
-              <a
-                href="archives;page=2.html"
-                title="Go to page 2"
-              >2</a>
+              <a href="archives.html" class="current">1</a>
+              <a href="archives;page=2.html" title="Go to page 2">2</a>
               <span id="go_to">&nbsp;&nbsp;&nbsp;Go to Problem:
-                <input
-                  type="text"
-                  maxlength="3"
-                  class="jump_to"
-                >
+                <input type="text" maxlength="3" class="jump_to">
               </span>
             </div>
           </div>

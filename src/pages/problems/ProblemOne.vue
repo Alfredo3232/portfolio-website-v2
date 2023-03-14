@@ -10,10 +10,7 @@
             <h3>Problem 1</h3>
           </div>
           <hr>
-          <div
-            class="problem_content"
-            role="problem"
-          >
+          <div class="problem_content" role="problem">
             <p>
               It is the end of the academic year, fateful moment of your school report. Averages must be
               calculated.
@@ -34,17 +31,10 @@
               &emsp; [1,2,3,4,5,] should equal to 3<br>
               &emsp; [7,8,14,17,14,16] should equal to 12<br>
             </p>
-            <button
-              id="button"
-              style="background-color: #2a4555;"
-              @click="showSolution"
-            >
+            <button id="button" style="background-color: #2a4555;" @click="showSolution">
               Show Solution
             </button>
-            <div
-              id="newpost"
-              :class="show ? '' : 'hidden'"
-            >
+            <div id="newpost" :class="show ? '' : 'hidden'">
               <p>
                 function obtainTheMedian(grades) {<br>
                 &emsp; let len = grades.length;<br>

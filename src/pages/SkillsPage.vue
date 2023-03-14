@@ -41,31 +41,19 @@
         <p>
           In front-end development, my current stack involves:
           <br>
-          <a
-            href="https://vuejs.org/"
-            rel="nofollow"
-          >VueJS</a>
+          <a href="https://vuejs.org/" rel="nofollow">VueJS</a>
 
           <br>
 
-          <a
-            href="https://reactjs.org/"
-            rel="nofollow"
-          >React</a>
+          <a href="https://reactjs.org/" rel="nofollow">React</a>
 
           <br>
 
-          <a
-            href="https://jquery.com/"
-            rel="nofollow"
-          >JQuery</a>
+          <a href="https://jquery.com/" rel="nofollow">JQuery</a>
 
           <br>
 
-          <a
-            href=""
-            rel="nofollow"
-          >Manipulating the DOM with vanilla javascript</a>
+          <a href="" rel="nofollow">Manipulating the DOM with vanilla javascript</a>
         </p>
         <p>
           I also have experience in using derivative libraries that and-on to packages like Vue for example Vuex and
@@ -111,24 +99,15 @@
         <p>
           In back-end development, my current stack involves:
           <br>
-          <a
-            href="https://nodejs.org/"
-            rel="nofollow"
-          >NodeJS</a>
+          <a href="https://nodejs.org/" rel="nofollow">NodeJS</a>
 
           <br>
 
-          <a
-            href="https://expressjs.com/"
-            rel="nofollow"
-          >Express</a>
+          <a href="https://expressjs.com/" rel="nofollow">Express</a>
 
           <br>
 
-          <a
-            href="https://axios-http.com/"
-            rel="nofollow"
-          >Axios</a>
+          <a href="https://axios-http.com/" rel="nofollow">Axios</a>
         </p>
         <p>
           The lessons I learned while doing all these project have been informational to me
@@ -144,18 +123,9 @@
           </li>
           <li>
             using different types of databases like (
-            <a
-              href="https://www.mysql.com/"
-              rel="nofollow"
-            >SQL</a>,
-            <a
-              href="https://www.mongodb.com/"
-              rel="nofollow"
-            >MongoDB</a>,
-            <a
-              href="https://neo4j.com/"
-              rel="nofollow"
-            >Neo4J</a>),
+            <a href="https://www.mysql.com/" rel="nofollow">SQL</a>,
+            <a href="https://www.mongodb.com/" rel="nofollow">MongoDB</a>,
+            <a href="https://neo4j.com/" rel="nofollow">Neo4J</a>),
           </li>
           <li>
             also using their perspective technologies to interact with NodeJS, like Mongoose, MySQL, Neo4J-Driver

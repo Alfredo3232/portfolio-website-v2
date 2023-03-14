@@ -3,10 +3,7 @@
 
   <nav-bar />
 
-  <div
-    id="blogMain"
-    class="site-main"
-  >
+  <div id="blogMain" class="site-main">
     <div class="site-main-inner">
       <div class="wrapper">
         <header>
@@ -207,10 +204,7 @@
             <div class="blogs mb-6">
               <div class="blog tag">
                 <div class="blog-header">
-                  <router-link
-                    to="/blog/ExampleBlog"
-                    class="ml-3 blog-link text-2xl"
-                  >
+                  <router-link to="/blog/ExampleBlog" class="ml-3 blog-link text-2xl">
                     How is Authentication done in most websites?
                   </router-link>
                 </div>
@@ -237,11 +231,7 @@
                 </div>
 
                 <div class="blog-footer">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener"
-                  >
+                  <a href="" target="_blank" rel="noopener">
                     links...
                   </a>
                 </div>
@@ -269,11 +259,7 @@
                   </ul>
                 </div>
                 <div class="blog-footer">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener"
-                  >
+                  <a href="" target="_blank" rel="noopener">
                     links...
                   </a>
                 </div>
@@ -301,11 +287,7 @@
                   </ul>
                 </div>
                 <div class="blog-footer">
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener"
-                  >
+                  <a href="" target="_blank" rel="noopener">
                     links...
                   </a>
                 </div>

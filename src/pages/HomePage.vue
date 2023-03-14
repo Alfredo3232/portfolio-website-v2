@@ -13,25 +13,15 @@
             both <strong>front-end and back-end</strong> of web development.
           </h2>
           <div class="home-buttons">
-            <router-link
-              to="/skills"
-              class="button button-outline button-white"
-            >
+            <router-link to="/skills" class="button button-outline button-white">
               Skills
             </router-link>
             <br>
-            <router-link
-              to="/portfolio"
-              class="button button-outline button-white"
-            >
+            <router-link to="/portfolio" class="button button-outline button-white">
               Portfolio
             </router-link>
             <br>
-            <a
-              href="https://github.com/Alfredo3232"
-              target="_blank"
-              class="button button-outline button-white"
-            >
+            <a href="https://github.com/Alfredo3232" target="_blank" class="button button-outline button-white">
               My Github
             </a>
           </div>
