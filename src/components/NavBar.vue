@@ -3,7 +3,7 @@
     <div class="site-sidebar-inner h-card">
       <router-link to="/" class="person u-url">
         <div class="person-avatar u-photo">
-          <img src="../images/self.jpg" alt="An image of myself" class="avatar">
+          <img src="https://avatars.githubusercontent.com/u/61888719?v=4" alt="An image of myself" class="avatar">
         </div>
 
         <div class="person-content">
@@ -11,7 +11,7 @@
             Alfredo
           </h1>
           <h2 class="person-subtitle p-job-title p-note">
-            Full-stack Software Engineer
+            Full-Stack Web Developer
           </h2>
         </div>
       </router-link>
@@ -47,18 +47,6 @@
         <div class="navigation-extendable">
           <ul>
             <li class="">
-              <router-link to="/blog" active-class="current">
-                Blog
-              </router-link>
-            </li>
-            <li class="">
-              <router-link to="/toyProblems" active-class="current">
-                Toy Problems
-              </router-link>
-            </li>
-          </ul>
-          <ul>
-            <li class="">
               <router-link to="/skills" active-class="current">
                 Skills
               </router-link>
@@ -76,14 +64,7 @@
           </ul>
           <ul>
             <li class="">
-              <router-link to="/resume" active-class="current">
-                Resume
-              </router-link>
-            </li>
-            <li class="">
-              <router-link to="/games" active-class="current">
-                Games
-              </router-link>
+              <a href="./Alfredo Rojas.pdf" target="_blank">Resume</a>
             </li>
           </ul>
         </div>
