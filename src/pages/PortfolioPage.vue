@@ -12,7 +12,36 @@
           <ul>
             <li class="timeline_element project">
               <div class="timeline_element-date">
-                <time class="timeline_element-date-text">2021-2023</time>
+                <time class="timeline_element-date-text">2022 - 2022</time>
+              </div>
+
+              <div class="timeline_element-contents">
+                <div class="project-text">
+                  <a href="https://www.linkedin.com/school/holacode/" class="project-link">
+                    <div class="project-title">Full-Stack Web Developer Teacher</div>
+                    <div class="project-subtitle">
+                      This was a momentary position that lasted 8 weeks. This was a collaboration between
+                      <a href="https://www.kanecode.com/" style="color: rgb(211, 20, 20);">Kanecode</a> and
+                      <a href="https://www.linkedin.com/school/holacode/" style="color: rgb(211, 20, 20);">HolaCode</a>
+                    </div>
+                  </a>
+                  <div class="project-description">
+                    <p>
+                      • Taught an 8-week seminar on full-stack web development to students at Kanecode. <br>
+                      • Focused on teaching JavaScript, HTML, CSS, and jQuery and how to use them in conjunction with Kanecode's platform. <br>
+                      • Led students through various projects and exercises both online and offline. <br>
+                      • Provided personalized 1-on-1 sessions to help students with homework assignments and answer any questions they had. <br>
+                    </p>
+                  </div>
+
+                  <div class="project-image" />
+                </div>
+              </div>
+            </li>
+
+            <li class="timeline_element project">
+              <div class="timeline_element-date">
+                <time class="timeline_element-date-text">2020 - ∞</time>
               </div>
 
               <div class="timeline_element-contents">
@@ -37,6 +66,7 @@
                 </div>
               </div>
             </li>
+
             <li class="timeline_element project">
               <div class="timeline_element-date">
                 <time class="timeline_element-date-text">2019 - 2020</time>

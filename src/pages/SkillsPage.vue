@@ -10,7 +10,7 @@
 
         <p>
           <strong>A <span class="red">full-stack software engineer</span> with over
-            <span class="red">1.5 years of experience</span>.</strong>
+            <span class="red">2 years of experience</span>.</strong>
         </p>
 
         <p>
@@ -21,11 +21,11 @@
 
         <p><strong>I can help you on your projects:</strong></p>
         <ul>
-          <li>co-developing the back-end and front-end,</li>
-          <li>researching possible techs,</li>
-          <li>launching and monitoring the project.</li>
-          <li>consistency on the codebase by configuring libraries like eslint that improves code readability</li>
-          <li>managing the project with git and github, also making github actions that automatizes work</li>
+          <li>Co-Developing the back-end and front-end,</li>
+          <li>Researching possible techs,</li>
+          <li>Launching and monitoring the project.</li>
+          <li>Consistency on the codebase by configuring libraries like eslint that improves code readability.</li>
+          <li>Managing the project with git and github, also making github actions that automatizes work.</li>
         </ul>
 
         <hr>
@@ -63,7 +63,7 @@
         <div class="row features">
           <div class="col col-4 feature">
             <div class="feature-icon feature-number">
-              1
+              2
             </div>
             <div class="feature-description">
               single page applications launched in VueJS
