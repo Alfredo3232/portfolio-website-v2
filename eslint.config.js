@@ -62,13 +62,13 @@ export default [
             eqeqeq                        : ["error", "smart"],
             "no-else-return"              : "error",
             "vue/max-attributes-per-line" : [
-              "error",
-              {
-                  singleline: {
-                      max: 3
-                  }
-              }
-          ]
+                "error",
+                {
+                    singleline: {
+                        max: 2
+                    }
+                }
+            ]
         }
     },
 

@@ -6,21 +6,19 @@ import PortfolioPage from "../pages/PortfolioPage.vue";
 import SkillsPage from "../pages/SkillsPage.vue";
 import HomePage from "../pages/HomePage.vue";
 
-
 // routes arrays
 let baseRoutes = [
-  { component: HomePage, path: "/" },
-  { component: PortfolioPage, path: "/portfolio" },
-  { component: SkillsPage, path: "/skills" },
-  { component: ContactPage, path: "/contact" }
+    { component: HomePage, path: "/" },
+    { component: PortfolioPage, path: "/portfolio" },
+    { component: SkillsPage, path: "/skills" },
+    { component: ContactPage, path: "/contact" }
 ];
-
 
 // router object
 let router = createRouter({
-  history         : createWebHistory(),
-  linkActiveClass : "current",
-  routes          : baseRoutes
+    history         : createWebHistory(),
+    linkActiveClass : "current",
+    routes          : baseRoutes
 });
 
 export default router;
