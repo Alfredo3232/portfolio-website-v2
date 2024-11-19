@@ -9,7 +9,7 @@
         <p>
           <strong>
             A <span class="red">full-stack software engineer</span> with over
-            <span class="red">2 years of experience</span>.</strong
+            <span class="red">3 years of experience</span>.</strong
           >
         </p>
 
@@ -53,6 +53,9 @@
           In front-end development, my current stack involves:
           <br />
 
+          <a href="" rel="nofollow">HTML & CSS</a>
+          <br />
+
           <a href="https://vuejs.org/" rel="nofollow">VueJS</a>
           <br />
 
@@ -62,6 +65,9 @@
           <a href="https://jquery.com/" rel="nofollow">JQuery</a>
           <br />
 
+          <a href="" rel="nofollow">BootStrap</a>
+          <br />
+
           <a href="" rel="nofollow">
             Manipulating the DOM with vanilla javascript
           </a>
@@ -69,12 +75,12 @@
 
         <p>
           I also have experience in using derivative libraries that and-on to
-          packages like Vue for example Vuex and Vue-router.
+          packages like Vue for example Vuex, Vue-router, and Pinia.
         </p>
 
         <div class="row features">
           <div class="col col-4 feature">
-            <div class="feature-icon feature-number">2</div>
+            <div class="feature-icon feature-number">3</div>
             <div class="feature-description">
               single page applications launched in VueJS
             </div>
@@ -109,24 +115,21 @@
           In back-end development, my current stack involves:
           <br />
 
-          <a href="https://nodejs.org/" rel="nofollow">NodeJS</a>
+          <a href="https://nodejs.org/" rel="nofollow">Node.js</a>
           <br />
 
-          <a href="https://expressjs.com/" rel="nofollow">Express</a>
+          <a href="https://expressjs.com/" rel="nofollow">Express.js</a>
           <br />
 
           <a href="https://axios-http.com/" rel="nofollow">Axios</a>
-        </p>
-
-        <p>
-          The lessons I learned while doing all these project have been
-          informational to me all the projects.
+          <br />
+          <a href="" rel="nofollow">JavaScript</a>
         </p>
 
         <p>What I can do for the Back-End:</p>
 
         <ul>
-          <li>development of the backends in Node.js,</li>
+          <li>development of the backend in Node.js,</li>
           <li>cooperation with APIs, cloud servers,</li>
           <li>
             using different types of databases like (

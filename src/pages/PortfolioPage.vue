@@ -43,16 +43,15 @@
                   </a>
                   <div class="project-description">
                     <p>
+                      • This was a collaboration between Kanecode and HolaCode,
+                      contracted by HolaCode. <br />
                       • Taught an 8-week seminar on full-stack web development
-                      to students at Kanecode. <br />
-                      • Focused on teaching JavaScript, HTML, CSS, and jQuery
-                      and how to use them in conjunction with Kanecode's
-                      platform. <br />
-                      • Led students through various projects and exercises both
-                      online and offline. <br />
+                      to students using Kanecode’s platform.<br />
+                      • Led students through various projects and exercises
+                      online. <br />
                       • Provided personalized 1-on-1 sessions to help students
                       with homework assignments and answer any questions they
-                      had. <br />
+                      had<br />
                     </p>
                   </div>
 
