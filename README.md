@@ -1,8 +1,9 @@
-# portfolio-website-v2
+# Portfolio Website V2
 
 My portfolio website, but cleaner and more maintainable with create-vue app.\
 I am using firebase to host my website as opposed to heroku, heroku recently has taken out their free tier.\
-So I also moved my deployment over to firebase, link to my website -> [Portfolio Website](https://portfolio-website-v2-7909b.firebaseapp.com/)
+So I also moved my deployment over to firebase,\
+link to my website -> [Portfolio Website](https://portfolio-website-v2-7909b.firebaseapp.com/)
 
 ## Project Setup
 
