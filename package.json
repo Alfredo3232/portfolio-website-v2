@@ -1,7 +1,12 @@
 {
     "name": "portfolio-website-v2",
-    "version": "0.0.0",
+    "version": "1.0.0",
+    "private": true,
     "type": "module",
+    "description": "My portfolio website, but cleaner and more maintainable with create-vue app. ",
+    "main": "index.js",
+    "author": "Alfredo3232",
+    "homepage": "https://github.com/Alfredo3232/portfolio-website-v2",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
