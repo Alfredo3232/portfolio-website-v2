@@ -8,7 +8,6 @@
 
         <div class="timeline portfolio-timeline">
           <ul>
-
             <li class="timeline_element project">
               <div class="timeline_element-date">
                 <time class="timeline_element-date-text">2022 - 2022</time>
@@ -147,10 +146,12 @@
                 <div class="project-text">
                   <a href="https://www.collegiatecharterhighschooloflosangeles.org/" class="project-link">
                     <div class="project-title">
-                      Studied at Collegiate Charter High School of Los Angeles
+                      Studied at Collegiate Charter High
+                      School of Los Angeles
                     </div>
                     <div class="project-subtitle">
-                      Graduated, and got My High School Diploma
+                      Graduated, and got My High School
+                      Diploma
                     </div>
                   </a>
                   <!-- <div class="project-description">
@@ -165,7 +166,6 @@
                 </div>
               </div>
             </li>
-
           </ul>
         </div>
       </div>
