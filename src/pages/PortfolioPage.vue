@@ -139,7 +139,7 @@
 
             <li class="timeline_element project">
               <div class="timeline_element-date">
-                <time class="timeline_element-date-text">2019 - 2020</time>
+                <time class="timeline_element-date-text">2015 - 2019</time>
               </div>
 
               <div class="timeline_element-contents">
@@ -150,8 +150,7 @@
                       School of Los Angeles
                     </div>
                     <div class="project-subtitle">
-                      Graduated, and got My High School
-                      Diploma
+                      Graduated with High School Diploma
                     </div>
                   </a>
                   <!-- <div class="project-description">
